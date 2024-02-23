@@ -18,3 +18,8 @@ h1{
     margin: auto;
     display: block;
 }
+
+.recipetext {
+    font-size: 25px;
+    font-family: Arial, Verdana, serif;
+}
