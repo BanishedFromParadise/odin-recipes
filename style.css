@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+     font-family: "Times New Roman", Verdana, serif;
+    background-color: yellow;
+    text-align: center;
+}
+
+.indexlinks {
+    font-size: 25px;
+    color:white;
+    background-color: rgb(208, 255, 0);
+    font-weight: bold;
+    
+}
+
+.avatar{
+    height: auto; width: 400px;
+    margin: auto;
+    display: block;
+}
